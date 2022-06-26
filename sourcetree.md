@@ -16,4 +16,8 @@
 SourceTreeSetup-3.4.9.exeをダウンロード
 
 
+![image](https://user-images.githubusercontent.com/83696952/175804875-1138de8e-271c-49d6-bb44-fcf03149d51f.png)
 
+スキップボタンをクリック
+
+![image](https://user-images.githubusercontent.com/83696952/175805603-9e4d9501-763f-453f-aa73-625fe35562c9.png)
