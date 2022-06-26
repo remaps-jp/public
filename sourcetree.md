@@ -26,3 +26,18 @@ Gitにチェック
 ![image](https://user-images.githubusercontent.com/83696952/175805730-e97242d5-6abe-4fac-ba85-e74e99a58f7f.png)
 
 インストール終了
+
+引き続き設定を行う
+
+GitHUbのアカウント名、メールアドレスを設定
+
+![image](https://user-images.githubusercontent.com/83696952/175806246-3c5d1581-be63-4c9a-8050-a79505984149.png)
+
+
+![image](https://user-images.githubusercontent.com/83696952/175806317-a5151ccd-b637-432e-b364-5579f693abcc.png)
+
+
+
+
+
+
